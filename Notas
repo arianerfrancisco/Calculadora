@@ -3,7 +3,19 @@ Atalho para criar div com o nome da classe> Digite div.nomedaclasse e dê enter.
 
 CSS
 position: absolute; // garante que o elemento ocupará apenas seu espaço.
-padding: 15px; // espaçamento entre os elementos e a borda
-height: 100vw; // garante que o degrade ocupe toda a tela de visualização
-cursor: pointer; // realiza o efeito de sombreado ao passar o cursor pelo botão
-.botao:hover{background-color:black;} // altera o fundo do botão para preto quando o cursor passar pelo botao
+
+padding: 15px; // espaçamento entre os elementos e a borda.
+
+height: 100vw; // garante que o degrade ocupe toda a tela de visualização.
+
+cursor: pointer; // realiza o efeito de sombreado ao passar o cursor pelo botão.
+
+.botao:hover{background-color:black;} // altera o fundo do botão para preto quando o cursor passar pelo botao.
+
+JS
+Função Substring: Retorna os caracteres extraídos de uma string com base na posição de caractere especificada
+ para um número especificado de caracteres.
+
+A função Eval avalia o expressão de cadeia de caracteres e retorna seu valor. Por exemplo, Eval("1 + 1") retorna 2. 
+Se passar para a função Eval uma cadeia de caracteres que contém o nome de uma função, a função Eval
+retornará o valor de retorno da função.
